@@ -1,15 +1,24 @@
-# Movie List
-A simple web application for movie fanatic
+<p align="center">
+    <img src="https://github.com/Lan956616/YouTubeLooper_ChromeExtension/blob/main/icons/icon128.png" width="128">
+</p>
 
-## Features
-- listing movies from movie api
-- searching movies by title
-- add movies to your favorite list
-- manage your favorite list
+## YouTubeLooper_ChromeExtension
 
-### Searching
-type the title of the movies in search bar
-### Favorite List
-In index page, press the `+` button on the movie to keep it into favorite list.
-You can checkout the favorite list in `favorite.html`
-press `x` to remove it from favorite list
+## 功能介紹
+
+## 安裝方式
+### 線上安裝
+<a rel="noreferrer noopener" href="#"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a> 
+
+### 手動安裝
+1.下載[YouTubeLooper_ChromeExtension](https://github.com/Lan956616/YouTubeLooper_ChromeExtension/archive/refs/heads/main.zip)，解壓縮後找到`dist`資料夾
+2.開啟Google Chrome，網址列輸入`chrome://extensions/`
+3.打開右上角`開發人員模式`
+4.點選左上角`載入未封裝項目`把`dist`資料夾匯入
+
+## 使用技術
+![React](https://img.shields.io/badge/React-blue)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![Node.js](https://img.shields.io/badge/Node.js-blue)
+![Webpack](https://img.shields.io/badge/Webpack-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
